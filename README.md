@@ -35,3 +35,5 @@
 Αν δεν είναι επιλέξιμα για χορηγία, θα αξιοποιήσουμε συσκευές που διαθέτουμε στα σπίτια μας.
 - 2 x Android Tablet με Wifi και Bluetooth
 - 1 x Σετ ηχεία 6 Watt 
+## Πρόχειρο σχέδιο κατασκευής
+![](https://github.com/hackersppf/I-am-here-/blob/master/i%20am%20here%20-%20%CE%A0%CF%81%CE%BF%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF.png)
